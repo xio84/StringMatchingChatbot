@@ -1,0 +1,14 @@
+matkul : mata kuliah
+angka : jumlah
+paling sedikit : minimal
+pemilihan umum : pemilu
+pencipta : pembuat
+satu tahun : setahun
+gunakan : pakai
+panggil : sebut
+lubang hitam : blackhole
+tokoh : karakter
+saat ini : sekarang
+perempuan : wanita
+laki-laki : pria
+tempat makan : kantin
